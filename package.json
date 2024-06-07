@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Send Emails from your Website with Ease",
   "main": "dist/mailprexForm.js",
-  "types": "dist/mailprex-form.d.ts",
+  "types": "types/mailprex-form.d.ts",
   "scripts": {
     "build": "webpack --mode=production"
   },
