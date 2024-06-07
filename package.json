@@ -1,8 +1,9 @@
 {
   "name": "mailprex-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send Emails from your Website with Ease",
   "main": "dist/mailprexForm.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "webpack --mode=production"
   },
