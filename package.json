@@ -1,0 +1,33 @@
+{
+  "name": "mailprex-form",
+  "version": "1.0.0",
+  "description": "Send Emails from your Website with Ease",
+  "main": "dist/mailprexForm.js",
+  "scripts": {
+    "build": "webpack --mode=production"
+  },
+  "keywords": [
+    "email",
+    "send",
+    "mail",
+    "form",
+    "hook",
+    "react",
+    "frontend",
+    "website"
+  ],
+  "author": "Agustin Avellaneda <https://agustin.top>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitdraig/usemailprex-form"
+  },
+  "bugs": {
+    "url": "https://github.com/nitdraig/usemailprex-form/issues"
+  },
+  "homepage": "https://github.com/nitdraig/usemailprex-form#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
